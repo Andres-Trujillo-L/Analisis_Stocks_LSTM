@@ -52,5 +52,5 @@ streamlit run app2.py
 # 🧑‍💻 Autor
 Desarrollado por Andrés Trujillo como parte de su portafolio de Data Science y Python Development.
 
-📫 LinkedIn | 🌐 GitHub
+📫 [LinkedIn](https://www.linkedin.com/in/andres-trujillo-luzuriaga) | 🌐 [GitHub](https://github.com/Andres-Trujillo-L)
 
