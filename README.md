@@ -1,7 +1,7 @@
-## 📈 Análisis de Acciones con LSTM y Streamlit
+# 📈 Análisis de Acciones con LSTM y Streamlit
 Una aplicación interactiva construida con Streamlit que permite analizar acciones mediante datos históricos de Yahoo Finance, calcular indicadores técnicos y realizar predicciones multivariadas con redes neuronales LSTM. Diseñada tanto para análisis exploratorio como para generación de señales de compra/venta.
 
-# 🚀 Características
+## 🚀 Características
 🔍 Búsqueda de acciones por símbolo (usando Yahoo Finance)
 
 📊 Indicadores técnicos: RSI, MACD, Medias Móviles (SMA)
@@ -18,7 +18,7 @@ Una aplicación interactiva construida con Streamlit que permite analizar accion
 
 🧠 El modelo LSTM se entrena una sola vez por símbolo y se reutiliza
 
-# 🧰 Tecnologías utilizadas
+## 🧰 Tecnologías utilizadas
 Python
 
 Streamlit
@@ -35,21 +35,21 @@ Matplotlib
 
 Pandas / Numpy
 
-# 📦 Instalación local
+## 📦 Instalación local
 Clona este repositorio:
 
     git clone https://github.com/tuusuario/nombre-repo.git
     cd nombre-repo
 
-# Instala los requisitos:
+### Instala los requisitos:
 
     pip install -r requirements.txt
 
-# Ejecuta la aplicación:
+### Ejecuta la aplicación:
 
 streamlit run app2.py
 
-## 🧑‍💻 Autor
+# 🧑‍💻 Autor
 Desarrollado por Andrés Trujillo como parte de su portafolio de Data Science y Python Development.
 
 📫 LinkedIn | 🌐 GitHub
